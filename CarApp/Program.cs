@@ -40,7 +40,6 @@ namespace CarApp
         {
             int number = 0;
             string strNumber;
-            int count = 0;
 
             while (true)
             {
